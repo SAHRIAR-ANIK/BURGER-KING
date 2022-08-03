@@ -1,0 +1,194 @@
+@media (max-width:1070px) {
+ 
+.contaner{padding: 0 2%;}}
+
+
+@media (max-width:991px){
+
+.top-midle{position: absolute; top: 100%; width: 100%; left: 0; margin: auto; display: none; background-color: #fff;}
+
+.top-midle ul{flex-direction: column; justify-content:center;}
+
+.top-midle ul li {background-color: #eee; margin: 10px auto; padding: 10px; border-radius: 3px; width: 95%;}
+
+.top-midle ul li a{background-color: transparent; border-radius: 0; color: #666; padding: 0;}
+
+.top-midle ul li a.active{background-color: transparent; border-radius: 0; color: #666;}
+
+.top-midle ul li a:hover{background-color: transparent; color: transparent;}
+
+.top-midle ul li:hover{background-color: #27ae60; cursor: pointer;}
+
+.top-midle ul li:hover a{color: #fff;}
+
+.top-right i:first-child{display:block;}
+
+.top-right{display: flex;}
+
+.second-df{flex-direction: column;}
+
+.second-left{width: 100%;}
+
+.second-right{width: 70%; margin: auto;}
+
+.second-left p{width: 100%; font-size: 19px;}
+
+.second-left span{font-size: 35px;}
+
+.second-left h3{font-size: 50px;}
+
+.second-df{padding: 100px 0;}
+
+.third-item{width: 100%;}
+
+.third-df{flex-direction: column;}
+
+.forth-right p{width: 100%;}
+
+.forth-df{flex-direction: column;}
+
+.forth-left{width: 100%;}
+
+.forth-right{width: 100%;}
+
+.fifth-df{flex-direction: column;}
+
+.fifth-item{width: 100%;}
+
+}
+@media (max-width:700px){
+
+.df div{width: 43%; margin:6px; margin-right: 0;}
+
+.df div:last-child{width: 100%;}
+
+form{width: 100%;}
+
+.last-df{flex-direction: column;}
+
+.last-item{width: 100%;}
+}
+
+@media (max-width:420px){
+
+.top-left a{font-size: 30px;}
+
+.top-right i{font-size:17px; width: 40px; height: 40px; line-height: 40px;}
+
+.second-left{margin-bottom: 50px;}
+
+.second-right{width: 80%;}
+
+.third-item a:hover{letter-spacing: 1px;}
+
+.third-item a{padding: 10px 20px;}
+
+.third-item{padding: 40px 10px;}
+
+.df div{padding: 12px 5px; margin: 10px;}
+
+.df div span{font-size: 15px;}
+
+.forth h1{font-size: 40px;}
+
+.forth-right h4{font-size: 40px;}
+
+.forth-right p{text-align: justify;}
+
+.content p{font-size: 16px;}
+
+.head img{height: 14rem;}
+
+.head i{width: 50px; height: 50px; line-height: 50px; font-size: 22px;}
+
+.fifth h1{font-size: 40px; margin-bottom: 40px;}
+
+.six{padding: 60px 0;}
+
+.six h1{font-size: 40px;}
+
+.right i{font-size: 45px;}
+
+.vejal h4{font-size: 26px;}
+
+.vejal i{font-size: 18px;}
+
+.box p{font-size: 19px;}
+
+.seven h1{font-size: 40px;}
+
+.inputBox .input{width: 100%;}
+
+.inputBox{flex-direction: column;}
+
+.credit{font-size: 20px;}
+
+.last{padding: 60px 2%;}
+
+.last-item p{font-size: 18px;}
+
+form{padding: 1.5rem 10px;}
+
+.third h1{font-size: 40px;}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
